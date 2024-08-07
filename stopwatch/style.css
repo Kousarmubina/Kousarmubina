@@ -1,0 +1,14 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(249, 250, 215);
+}
+.main-container{
+    background-color: yellowgreen;
+    color: black;
+
+}
